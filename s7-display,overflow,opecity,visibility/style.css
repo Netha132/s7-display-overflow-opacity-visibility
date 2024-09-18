@@ -1,0 +1,56 @@
+#body{
+    background-color:  #F7C5CC;
+}
+#pic1{
+    width: 300px;
+    border-radius: 10px;
+    border: 5px solid #f0abb1;
+}
+#desc1{
+    display: inline-block;
+    width: 900px;
+    text-align: justify;
+}
+#pic2{
+    width: 300px;
+    display: inline-block;
+
+}
+#desc2{
+    display: inline-block;
+    width: 900px;
+    overflow: auto;
+    height: 350px;
+    text-align: justify;
+}
+#desc{
+    text-align: justify;
+}
+#career{
+    display: block;
+    width: 1100px;
+    text-align: right;
+}
+#logo{
+    width: 200px;
+    opacity: 0.4;
+}
+#pic3{
+    width: 300px;
+}
+#desc3{
+    display: inline-block;
+    width: 900px;
+    height: 400px;
+    overflow: auto;
+    text-align: justify;
+}
+#mainHead{
+    background-color: #CC313D;
+    color: #fff;
+    font-size: 3rem;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px #d34d58;
+}
